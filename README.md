@@ -6,3 +6,5 @@ Academic project
 
 - Java
 - SwingLib
+- GCP
+- Sockets
